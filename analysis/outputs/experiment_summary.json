@@ -1,0 +1,9 @@
+{
+  "observations": 10240,
+  "stores": 8,
+  "weeks": 8,
+  "treatment_aov": 96.56,
+  "control_aov": 81.84,
+  "estimated_aov_lift_pct": 17.98,
+  "data_feed_warning": "S06/week 4: 12 rows short; repair or exclude before decision."
+}

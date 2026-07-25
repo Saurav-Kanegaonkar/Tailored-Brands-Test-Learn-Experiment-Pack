@@ -1,0 +1,7 @@
+treatment_group,segment,n,conversion_rate,avg_order_value,gross_margin_per_order
+control,Core,1717,0.5457,77.75,31.29
+control,Premium,1715,0.772,90.3,36.34
+control,Value,1688,0.5237,77.42,31.17
+treatment,Core,1715,0.842,94.6,38.05
+treatment,Premium,1715,0.9504,106.04,42.67
+treatment,Value,1690,0.7609,88.92,35.8

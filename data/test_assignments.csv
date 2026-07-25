@@ -1,0 +1,9 @@
+store_id,treatment_group,match_cell,assignment_date
+S01,treatment,Northeast-Urban,2026-04-01
+S02,control,Northeast-Suburban,2026-04-01
+S03,treatment,South-Urban,2026-04-01
+S04,control,South-Suburban,2026-04-01
+S05,treatment,Midwest-Urban,2026-04-01
+S06,control,Midwest-Suburban,2026-04-01
+S07,treatment,West-Urban,2026-04-01
+S08,control,West-Suburban,2026-04-01

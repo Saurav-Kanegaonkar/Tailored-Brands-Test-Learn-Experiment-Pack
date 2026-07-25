@@ -1,0 +1,4 @@
+segment,treatment_aov,control_aov,illustrative_lift_pct,decision
+Value,80.41,78.78,2.1,hold for revised offer
+Core,94.56,86.79,9.0,validate then consider expansion
+Premium,104.40,95.79,9.0,validate then consider expansion

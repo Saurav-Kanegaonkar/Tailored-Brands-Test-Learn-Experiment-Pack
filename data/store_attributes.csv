@@ -1,0 +1,9 @@
+store_id,region,store_format,baseline_index,eligible_flag
+S01,Northeast,Urban,1.05,Y
+S02,Northeast,Suburban,0.96,Y
+S03,South,Urban,1.1,Y
+S04,South,Suburban,0.94,Y
+S05,Midwest,Urban,0.99,Y
+S06,Midwest,Suburban,0.92,Y
+S07,West,Urban,1.08,Y
+S08,West,Suburban,0.98,Y
